@@ -1,0 +1,12 @@
+{
+  "name": "serverless-plugin-start-create-react-app",
+  "version": "1.0.0",
+  "description": "Start Create React App development server attached to Serverless Offline",
+  "main": "index.js",
+  "repository": "git@github.com:lyuzashi/serverless-plugin-start-create-react-app.git",
+  "author": "Ben Patterson",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-offline": "^3.16.0"
+  }
+}
